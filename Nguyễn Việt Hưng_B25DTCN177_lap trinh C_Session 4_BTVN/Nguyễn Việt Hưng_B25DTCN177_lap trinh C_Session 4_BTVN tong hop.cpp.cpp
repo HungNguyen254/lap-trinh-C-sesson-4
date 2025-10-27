@@ -16,7 +16,7 @@ int main () {
 	printf("thong tin sinh vien:\n");
 	printf("nam sinh cua sinh vien:%d\n",year);
 	printf("tuoi cua sinh vien:%d\n",age);
-	printf("hoc luc cua sinh vien:\n",average);
+	printf("hoc luc cua sinh vien:",average);
 	
 	if (average>=8.0){
 		printf("Gioi");
